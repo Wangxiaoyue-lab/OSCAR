@@ -1,0 +1,27 @@
+{
+    "description": "<p>Source code-2023-9-28</p>", 
+    "license": "MIT", 
+    "title": "Wangxiaoyue-lab/OSCAR: Source code-2023-9-28", 
+    "version": "Source_code", 
+    "upload_type": "software", 
+    "publication_date": "2023-09-28", 
+    "creators": [
+        {
+            "affiliation": "pumch", 
+            "name": "Jun Cao"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/Wangxiaoyue-lab/OSCAR/tree/Source_code", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.8385064", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
