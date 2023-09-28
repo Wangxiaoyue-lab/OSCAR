@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Jun
+    given-names: Cao
+    orcid: https://orcid.org/0000-0002-9682-2724
+title: Wangxiaoyue-lab/OSCAR: Source code-2023-9-28
+version: Source_code
+date-released: 2023-09-28
